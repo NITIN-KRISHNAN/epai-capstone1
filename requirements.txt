@@ -4,3 +4,4 @@ SQLAlchemy
 flask_sqlalchemy
 flask_migrate
 gunicorn
+flask_wtf
